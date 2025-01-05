@@ -6,6 +6,7 @@ sci = int(input("Marks scored in sci: "))
 french = int(input("Marks scored in french: "))
 spanish = int(input("Marks scored in spanish: "))
 total = maths + ss + sci + french + spanish 
+print("[School name]")
 print("Name:", a)
 print("Age:", b )
 print("ID:", c)
